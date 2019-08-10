@@ -150,7 +150,6 @@ navigation: 3
 ## Week 16
 ## Tuesday, December 3
 * Course wrap-up: Evaluations, sharing of final projects, fête
-
 * NO RESPONSE DUE
 
 ----
