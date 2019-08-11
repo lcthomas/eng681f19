@@ -100,7 +100,7 @@ navigation: 3
 * Saidiya Hartman, selections from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (B)
 * Lauren Berlant and Michael Warner, "Sex in Public", _Critical Inquiry_ 24.2 (1998) (B)
 * Eve Sedgwick, selections from _Epistemology of the Closet_ (1990) (B)
-* José Esteban Muñoz, selections from _Cruising Utopia_ (2009) (B)
+* José Esteban Muñoz, "Introduction: Feeling Utopia" and Ch 10 "After Jack: Queer Failure, Queer Virtuosity," from _Cruising Utopia_ (2009) (B)
 
 ----
 
