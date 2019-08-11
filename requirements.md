@@ -18,6 +18,8 @@ You must complete all assignments to pass the class.
 ### Readings
 All of our course readings are available online or through our shared Box folder. However, we will be reading many selections from Saidiya Hartman's newest book _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (Norton, 2019). While these selections will be included among the materials available via our Box folder, if you would like to read this book in its hard copy form, you may wish to purchase it.
 
+Note that in some cases, when they are available, I have given you a pdf of an entire book when we are only reading a chapter for this class. Please refer to the course schedule for the assigned readings.
+
 ### Attendance and Active Participation
 As with any graduate course, you are expected to do the reading for, attend, and actively participate in every class period, barring emergencies or illness. If you know you will miss a particular class period, please let me know in advance. The reading load for this course is ambitious, as we have a lot of ground to cover. The reading will also not be easy, and many of our conversations will revolve around the frustrations and productive potentials of difficulty. While you are expected to complete each week's reading before coming to class, you are not expected to master it. In our class discussions, we will explore together what we don't know or understand. Not knowing or not understanding will be our expected collective starting point, not a sign of individual failure.
 
