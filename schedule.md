@@ -29,7 +29,7 @@ navigation: 3
 ## Week 3: The Hermeneutics of Suspicion 1
 ## Tuesday, September 3
 * Paul Ricoeur, pgs 32-36 from Ch 2 "The Conflict of Interpretations," from _Freud and Philosophy: An Essay on Interpretation_ (1965)
-* Karl Marx, selection from _The German Ideology_ (1846, 1932)
+* Karl Marx, selection from _The German Ideology_ (1846, 1932), _Grundrisse_ (1857-58, 1939-42), and Preface to _A Contribution to the Critique of Political Economy_ (1859) (all bundled together as “Marx – selections from Norton” in course readings folder)
 * Friedrich Nietzsche, "On Truth and Lying in a Non-Moral Sense," from _The Birth of Tragedy and Other Writings_ (1873, 1896)
 * Sigmund Freud, "The Uncanny" (1919)
 * Fredric Jameson, Preface from _The Political Unconscious: Narrative as a Socially Symbolic Act_ (1981)
@@ -82,13 +82,13 @@ navigation: 3
 * W. E. B. Du Bois, “Of Our Spiritual Strivings” from _The Souls of Black Folk_ (1903)
 * Jacques Lacan, “The Mirror Stage as Formative of the _I_ Function as Revealed in Psychoanalytic Experience” (1949)
 * Frantz Fanon, selections from _Black Skin, White Masks_ (1952)
-* Louis Althusser, selection from _Ideology and Ideological State Apparatuses_ (1971)
+* Louis Althusser, pgs 181-194 from "On Ideology," from _Ideology and Ideological State Apparatuses_ (1971)
 
 ----
 
 ## Week 9: Fugitivity and Aesthetics
 ## Tuesday, October 15
-* Saidiya Hartman, selections from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019)
+* Saidiya Hartman, "A Note on Method," "A Minor Figure," "An Atlas of the Wayward", "Wayward: A Short Entry on the Possible",  and "The Anarchy of Colored Girls Assembled in a Riotous Manner," from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 9" in course Box folder)
 * Fred Moten, “Resistance of the Object: Aunt Hester’s Scream”, from _In the Break: The Aesthetics of the Black Radical Tradition_ (2003)
 * Hortense Spillers, “Mama’s Baby, Papa’s Maybe: An American Grammar Book,” from _Black, White, and In Color: Essays on American Literature and Culture_ (2003)
 * Christina Sharpe, Ch 2 “The Ship: The Trans*Atlantic”, from _In the Wake: On Blackness and Being_ (2016)
@@ -97,10 +97,11 @@ navigation: 3
 
 ## Week 10: Queer Worlding
 ## Tuesday, October 22
-* Saidiya Hartman, selections from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019)
+* Saidiya Hartman,"1909. 601 West 61st Street. A New Colony of Colored People, or Malindy in Little Africa," "Mistah Beauty, the Autobiography of an Ex-Colored Woman, Select Scenes from a Film Never Cast by Oscar Micheaux, Harlem, 1920s," "The Beauty of the Chorus," and "Revolution in a Minor Key," from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 10" in course Box folder)
+* Eve Sedgwick, pgs 44-59 from “Introduction: Axiomatic,” from _Epistemology of the Closet_ (1990)
 * Lauren Berlant and Michael Warner, "Sex in Public", _Critical Inquiry_ 24.2 (1998)
-* Eve Sedgwick, selections from _Epistemology of the Closet_ (1990)
-* José Esteban Muñoz, "Introduction: Feeling Utopia" and Ch 10 "After Jack: Queer Failure, Queer Virtuosity," from _Cruising Utopia_ (2009)
+* José Esteban Muñoz, "Introduction: Feeling Utopia" from _Cruising Utopia_ (2009)
+* Jack Halberstam, "Minor Revolutionaries: A New Chapter in Queer Studies," _Los Angeles Review of Books_, July 21, 2019: [https://lareviewofbooks.org/article/minor-revolutionaries-a-new-chapter-in-queer-studies/](https://lareviewofbooks.org/article/minor-revolutionaries-a-new-chapter-in-queer-studies/)
 
 ----
 
@@ -134,7 +135,7 @@ navigation: 3
 
 ## Week 14: Assembling an Archive 2: How do you do it?
 ## Tuesday, November 19
-* Hartman, selection from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019)
+* Hartman, "Riot and Refrain" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (titled “Hartman – Wayward Lives Week 14” in course Box folder)
 * Lauren Berlant, Ch 2 “Intuitionists: History and the Affective Event,” from _Cruel Optimism_ (2011)
 
 * NO RESPONSE DUE
