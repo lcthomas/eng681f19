@@ -107,7 +107,7 @@ navigation: 3
 
 ## Week 11: Affect
 ## Tuesday, October 29
-* Lauren Berlant, Introduction, “Intimacy, Publicity, and Femininity,” from _The Female Complaint_ (2008)
+* Lauren Berlant, pgs 1-5 and 23-31 from "Introduction: Intimacy, Publicity, and Femininity,” and Ch 1 "Poor Eliza," from _The Female Complaint: The Unfinished Business of Sentimentality in American Culture_ (2008)
 * Sigmund Freud, "Mourning and Melancholia” (1917)
 * Raymond Williams, “Structures of Feeling”, from _Marxism and Literature_ (1977)
 * Sara Ahmed, Introduction, “Feel Your Way,” from _The Cultural Politics of Emotion_ (2004)
