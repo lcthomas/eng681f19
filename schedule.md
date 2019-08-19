@@ -29,7 +29,7 @@ navigation: 3
 ## Week 3: The Hermeneutics of Suspicion 1
 ## Tuesday, September 3
 * Paul Ricoeur, pgs 32-36 from Ch 2 "The Conflict of Interpretations," from _Freud and Philosophy: An Essay on Interpretation_ (1965)
-* Karl Marx, selection from _The German Ideology_ (1846, 1932), _Grundrisse_ (1857-58, 1939-42), and Preface to _A Contribution to the Critique of Political Economy_ (1859) (all bundled together as “Marx – selections from Norton” in course readings folder)
+* Karl Marx, selections from _The German Ideology_ (1846, 1932), _Grundrisse_ (1857-58, 1939-42), and Preface to _A Contribution to the Critique of Political Economy_ (1859) (all bundled together as “Marx – selections from Norton” in course readings folder)
 * Friedrich Nietzsche, "On Truth and Lying in a Non-Moral Sense," from _The Birth of Tragedy and Other Writings_ (1873, 1896)
 * Sigmund Freud, "The Uncanny" (1919)
 * Fredric Jameson, Preface from _The Political Unconscious: Narrative as a Socially Symbolic Act_ (1981)
