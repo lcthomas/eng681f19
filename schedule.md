@@ -78,7 +78,7 @@ navigation: 3
 
 ## Week 8: Subjectivity and Subjection
 ## Tuesday, October 8
-* Saidiya Hartman, selections from _Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America_ (1997)
+* Saidiya Hartman, “Introduction” and Ch 1 “Innocent Amusements: The Stage of Sufferance,” from _Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America_ (1997)
 * W. E. B. Du Bois, “Of Our Spiritual Strivings” from _The Souls of Black Folk_ (1903)
 * Jacques Lacan, “The Mirror Stage as Formative of the _I_ Function as Revealed in Psychoanalytic Experience” (1949)
 * Frantz Fanon, selections from _Black Skin, White Masks_ (1952)
