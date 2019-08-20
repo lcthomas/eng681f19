@@ -81,14 +81,14 @@ navigation: 3
 * Saidiya Hartman, “Introduction” and Ch 1 “Innocent Amusements: The Stage of Sufferance,” from _Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America_ (1997)
 * W. E. B. Du Bois, “Of Our Spiritual Strivings” from _The Souls of Black Folk_ (1903)
 * Jacques Lacan, “The Mirror Stage as Formative of the _I_ Function as Revealed in Psychoanalytic Experience” (1949)
-* Frantz Fanon, selections from _Black Skin, White Masks_ (1952)
+* Frantz Fanon, Ch 7 “The Black Man and Recognition,” from _Black Skin, White Masks_ (1952)
 * Louis Althusser, pgs 181-194 from "On Ideology," from _Ideology and Ideological State Apparatuses_ (1971)
 
 ----
 
 ## Week 9: Fugitivity and Aesthetics
 ## Tuesday, October 15
-* Saidiya Hartman, "A Note on Method," "A Minor Figure," "An Atlas of the Wayward", "Wayward: A Short Entry on the Possible",  and "The Anarchy of Colored Girls Assembled in a Riotous Manner," from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 9" in course Box folder)
+* Saidiya Hartman, "A Note on Method," "A Minor Figure," "An Atlas of the Wayward", "1909. 601 West 61st Street. A New Colony of Colored People, or Malindy in Little Africa," and "Wayward: A Short Entry on the Possible" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 9" in course Box folder)
 * Fred Moten, “Resistance of the Object: Aunt Hester’s Scream”, from _In the Break: The Aesthetics of the Black Radical Tradition_ (2003)
 * Hortense Spillers, “Mama’s Baby, Papa’s Maybe: An American Grammar Book,” from _Black, White, and In Color: Essays on American Literature and Culture_ (2003)
 * Christina Sharpe, Ch 2 “The Ship: The Trans*Atlantic”, from _In the Wake: On Blackness and Being_ (2016)
@@ -97,7 +97,7 @@ navigation: 3
 
 ## Week 10: Queer Worlding
 ## Tuesday, October 22
-* Saidiya Hartman,"1909. 601 West 61st Street. A New Colony of Colored People, or Malindy in Little Africa," "Mistah Beauty, the Autobiography of an Ex-Colored Woman, Select Scenes from a Film Never Cast by Oscar Micheaux, Harlem, 1920s," "The Beauty of the Chorus," and "Revolution in a Minor Key," from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 10" in course Box folder)
+* Saidiya Hartman, "Mistah Beauty, the Autobiography of an Ex-Colored Woman, Select Scenes from a Film Never Cast by Oscar Micheaux, Harlem, 1920s," "The Beauty of the Chorus," and "Revolution in a Minor Key," from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 10" in course Box folder)
 * Eve Sedgwick, pgs 44-59 from “Introduction: Axiomatic,” from _Epistemology of the Closet_ (1990)
 * Lauren Berlant and Michael Warner, "Sex in Public", _Critical Inquiry_ 24.2 (1998)
 * José Esteban Muñoz, "Introduction: Feeling Utopia" from _Cruising Utopia_ (2009)
@@ -117,9 +117,9 @@ navigation: 3
 ## Week 12: Crisis Ordinariness
 ## Tuesday, November 5
 * Lauren Berlant, Introduction “Affect in the Present,” from _Cruel Optimism_ (2011)
-* Maurice Blanchot, selections from _The Writing of the Disaster_ (1980)
+* Lauren Berlant, “The subject of true feeling: Pain, privacy, and politics,” from _Transformations: Thinking Through Feminism_, eds. Sara Ahmed, Jane Kilby, Celia Lury, Marueen McNeil and Beverley Skeggs (2000)
 * Anne Cvetcovich, Ch 1 “The Everyday Life of Queer Trauma”, from _An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures_ (2003)
-* Rob Nixon, pages 1-16 from "Introduction", from _Slow Violence and the Environmentalism of the Poor_ (2011)
+* Saidiya Hartman, “The Anarchy of Colored Girls Assembled in a Riotous Manner,” from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (titled "Hartman - Wayward Lives Week 12" in course Box folder)
 
 ----
 
