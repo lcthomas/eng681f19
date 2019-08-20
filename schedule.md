@@ -89,8 +89,8 @@ navigation: 3
 ## Week 9: Fugitivity and Aesthetics
 ## Tuesday, October 15
 * Saidiya Hartman, "A Note on Method," "A Minor Figure," "An Atlas of the Wayward", "1909. 601 West 61st Street. A New Colony of Colored People, or Malindy in Little Africa," and "Wayward: A Short Entry on the Possible" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 9" in course Box folder)
+* Hortense Spillers, “Mama’s Baby, Papa’s Maybe: An American Grammar Book,” from _Black, White, and In Color: Essays on American Literature and Culture_ (1987, 2003)
 * Fred Moten, “Resistance of the Object: Aunt Hester’s Scream”, from _In the Break: The Aesthetics of the Black Radical Tradition_ (2003)
-* Hortense Spillers, “Mama’s Baby, Papa’s Maybe: An American Grammar Book,” from _Black, White, and In Color: Essays on American Literature and Culture_ (2003)
 * Christina Sharpe, Ch 2 “The Ship: The Trans*Atlantic”, from _In the Wake: On Blackness and Being_ (2016)
 
 ----
