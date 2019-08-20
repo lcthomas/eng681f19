@@ -86,7 +86,7 @@ navigation: 3
 
 ----
 
-## Week 9: Fugitivity and Aesthetics
+## Week 9: Black Feminism, Black Aesthetics
 ## Tuesday, October 15
 * Saidiya Hartman, "A Note on Method," "A Minor Figure," "An Atlas of the Wayward", "1909. 601 West 61st Street. A New Colony of Colored People, or Malindy in Little Africa," and "Wayward: A Short Entry on the Possible" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 9" in course Box folder)
 * Hortense Spillers, “Mama’s Baby, Papa’s Maybe: An American Grammar Book,” from _Black, White, and In Color: Essays on American Literature and Culture_ (1987, 2003)
