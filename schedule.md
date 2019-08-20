@@ -7,7 +7,7 @@ navigation: 3
 # Unit 1: Modes of Reading
 ## Week 1: Discipline and ("Post"-)Theory
 ## Tuesday, August 20
-* Ngugi Wa Thiong'o, "On the Abolition of the English Department" (1972)
+* Ng˜ug˜i Wa Thiong'o, "On the Abolition of the English Department" (1972)
 * Noah Isenberg, pgs 82-89 from "Theory Out of Bounds," _Raritan_ 27.1 (2007)
 * Catherine Liu and Devan Bailey, "The Apprentice in Theory: Fan, Student, Star," _Los Angeles Review of Books_, Oct 5, 2018: [https://lareviewofbooks.org/article/the-apprentice-in-theory-fan-student-star/](https://lareviewofbooks.org/article/the-apprentice-in-theory-fan-student-star/)
 
