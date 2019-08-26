@@ -38,6 +38,11 @@ In the spirit of the [NYU Press _Keywords_ volumes](https://keywords.nyupress.or
 
 While this specific kind of paper may be new to you, what I am asking for here is still an essay informed by research. This means your essay should trace what you see as the importance and influence of your keyword on later scholarship. You should aim to provide a rich picture of the keyword's importance and influence, although you may choose to discuss some aspects of this importance and influence more than others. There are no requirements about the number of works you should discuss, they can be from our course reading or not (most likely, it will be a combination of the two), and you can organize the essay however you would like. However, keep in mind that you don't have a lot of space. 1500-2000 words is quite short, so you should think strategically about how best to accomplish your essay's goals in that amount of space. You should include a works cited page/bibliography.
 
+References available to you to help with this assignment:
+* Wiley-Blackwell _Dictionary of Cultural and Critical Theory_, Second Edition (included with our course readings in our course Box folder)
+* _The Johns Hopkins Guide to Literary Theory & Criticism_ (available via U Miami library: https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA61280633630002976&context=L&vid=uml_new&lang=en_US&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=everything&query=any,contains,Johns%20hopkins%20guide%20to%20literary%20theory%20and%20criticism; click the “Online Access” link and sign in with your UM credentials to search the database)
+
+
 ### Final project: 50%
 **Due:**
 * Come to class on Tuesday, November 12 ready to report the option you have chosen for your final project. If you miss class on this day, email me with your choice.
