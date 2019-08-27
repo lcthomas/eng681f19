@@ -40,7 +40,7 @@ While this specific kind of paper may be new to you, what I am asking for here i
 
 References available to you to help with this assignment:
 * Wiley-Blackwell _Dictionary of Cultural and Critical Theory_, Second Edition (included with our course readings in our course Box folder)
-* _The Johns Hopkins Guide to Literary Theory & Criticism_ (available via U Miami library: https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA61280633630002976&context=L&vid=uml_new&lang=en_US&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=everything&query=any,contains,Johns%20hopkins%20guide%20to%20literary%20theory%20and%20criticism; click the “Online Access” link and sign in with your UM credentials to search the database)
+* _The Johns Hopkins Guide to Literary Theory & Criticism_ ([available via U Miami library](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA61280633630002976&context=L&vid=uml_new&lang=en_US&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=everything&query=any,contains,Johns%20hopkins%20guide%20to%20literary%20theory%20and%20criticism); click the “Online Access” link and sign in with your UM credentials to search the database)
 
 
 ### Final project: 50%
