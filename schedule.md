@@ -97,7 +97,7 @@ navigation: 3
 
 ## Week 10: Queer Worlding
 ## Tuesday, October 22
-* Saidiya Hartman, "Mistah Beauty, the Autobiography of an Ex-Colored Woman, Select Scenes from a Film Never Cast by Oscar Micheaux, Harlem, 1920s," "The Beauty of the Chorus," and "Revolution in a Minor Key," from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 10" in course Box folder)
+* Saidiya Hartman, "Mistah Beauty, the Autobiography of an Ex-Colored Woman, Select Scenes from a Film Never Cast by Oscar Micheaux, Harlem, 1920s,"  "Revolution in a Minor Key," and "The Beauty of the Chorus" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (assembled together as "Hartman - Wayward Lives Week 10" in course Box folder)
 * Eve Sedgwick, pgs 44-59 from “Introduction: Axiomatic,” from _Epistemology of the Closet_ (1990)
 * Lauren Berlant and Michael Warner, "Sex in Public", _Critical Inquiry_ 24.2 (1998)
 * José Esteban Muñoz, "Introduction: Feeling Utopia" from _Cruising Utopia_ (2009)
