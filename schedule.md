@@ -81,7 +81,7 @@ navigation: 3
 * Saidiya Hartman, “Introduction” and Ch 1 “Innocent Amusements: The Stage of Sufferance,” from _Scenes of Subjection: Terror, Slavery, and Self-Making in Nineteenth-Century America_ (1997)
 * W. E. B. Du Bois, “Of Our Spiritual Strivings” from _The Souls of Black Folk_ (1903)
 * Jacques Lacan, “The Mirror Stage as Formative of the _I_ Function as Revealed in Psychoanalytic Experience” (1949)
-* Frantz Fanon, Ch 7 “The Black Man and Recognition,” from _Black Skin, White Masks_ (1952)
+* Frantz Fanon, Ch 5 “The Fact of Blackness,” from _Black Skin, White Masks_ (1952, 1967)
 * Louis Althusser, pgs 181-194 from "On Ideology," from _Ideology and Ideological State Apparatuses_ (1971)
 
 ----
@@ -126,7 +126,7 @@ navigation: 3
 ## Week 13: Assembling an Archive 1: What does it mean?
 ## Tuesday, November 12
 * Heather Love, “What Does Lauren Berlant Teach Us About X?”, _Communication and Critical/Cultural Studies_ 9.4 (2012)
-* Hartman, “Venus in Two Acts", _Small Axe_ 26.12.2 (2008)
+* Saidiya Hartman, “Venus in Two Acts", _Small Axe_ 26.12.2 (2008)
 
 * NO RESPONSE DUE
 * Come to class ready to report the final project option you have chosen.
@@ -135,7 +135,7 @@ navigation: 3
 
 ## Week 14: Assembling an Archive 2: How do you do it?
 ## Tuesday, November 19
-* Hartman, "Riot and Refrain" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (titled “Hartman – Wayward Lives Week 14” in course Box folder)
+* Saidiya Hartman, "Riot and Refrain" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (titled “Hartman – Wayward Lives Week 14” in course Box folder)
 * Lauren Berlant, Ch 2 “Intuitionists: History and the Affective Event,” from _Cruel Optimism_ (2011)
 
 * NO RESPONSE DUE
