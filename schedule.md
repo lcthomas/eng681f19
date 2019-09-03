@@ -26,8 +26,13 @@ navigation: 3
 
 ----
 
-## Week 3: The Hermeneutics of Suspicion 1
-## Tuesday, September 3
+## Week 3
+## Tuesday, September 3: CLASS CANCELED -- HURRICANE DORIAN
+
+----
+
+## Week 4: The Hermeneutics of Suspicion 1
+## Tuesday, September 10
 * Paul Ricoeur, pgs 32-36 from Ch 2 "The Conflict of Interpretations," from _Freud and Philosophy: An Essay on Interpretation_ (1965)
 * Karl Marx, selections from _The German Ideology_ (1846, 1932), _Grundrisse_ (1857-58, 1939-42), and Preface to _A Contribution to the Critique of Political Economy_ (1859) (all bundled together as “Marx – selections from Norton” in course readings folder)
 * Friedrich Nietzsche, "On Truth and Lying in a Non-Moral Sense," from _The Birth of Tragedy and Other Writings_ (1873, 1896)
@@ -36,16 +41,16 @@ navigation: 3
 
 ----
 
-## Week 4: The Hermeneutics of Suspicion 2
-## Tuesday, September 10
+## Week 5: The Hermeneutics of Suspicion 2
+## Tuesday, September 17
 * Michel Foucault, Part One and Part Two, from _The History of Sexuality, Volume 1: An Introduction_ (1976, 1978)
 * Toni Morrison, Ch 1 "Black Matters", from _Playing in the Dark: Whiteness and the Literary Imagination_ (1992)
 * Eve Sedgwick, "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This Introduction is about You," from _Novel Gazing: Queer Readings in Fiction_ (1997)
 
 ----
 
-## Week 5: Anthropology and the "Cultural Turn"
-## Tuesday, September 17
+## Readings removed from syllabus because of class cancelation:
+* **These readings are NOT assigned; I have left them on the syllabus so you can refer to them if needed**
 * Claude Lévi-Strauss, “A Writing Lesson,” from _Tristes Tropiques_ (1955)
 * Clifford Geertz, "Deep Play: Notes on a Balinese Cock Fight,” from _Interpretation of Cultures_ (1973)
 * Henry Louis Gates Jr., Ch 1 "A Myth of Origins: Esu-Elegbara and the Signifying Monkey,” from _The Signifying Monkey: A Theory of African-American Literary Criticism_ (1988)
@@ -64,6 +69,7 @@ navigation: 3
 # Unit 2: Theorizing the Present: Hartman and Berlant
 ## Week 7: Notes on Methods in Cultural Criticism
 ## Tuesday, October 1
+* Stuart Hall, "Cultural Studies and Its Theoretical Legacies," originally published in _Cultural Studies_, eds. Lawrence Grossberg, Cary Nelson, Paula Treichler (1992)
 * Lauren Berlant, "Collegiality, Crisis, and Cultural Studies," _Profession_ (1998)
 * Patricia Saunders, "Fugitive Dreams of Diaspora: Conversations with Saidiya Hartman," _Anthurium_ 6.1 (2008)
 
