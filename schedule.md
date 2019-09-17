@@ -49,7 +49,7 @@ navigation: 3
 
 ----
 
-## Readings removed from syllabus because of class cancelation:
+## Readings removed from syllabus because of class cancellation:
 * **These readings are NOT assigned; I have left them on the syllabus so you can refer to them if needed**
 * Claude Lévi-Strauss, “A Writing Lesson,” from _Tristes Tropiques_ (1955)
 * Clifford Geertz, "Deep Play: Notes on a Balinese Cock Fight,” from _Interpretation of Cultures_ (1973)
@@ -63,6 +63,7 @@ navigation: 3
 * Stephen Best and Sharon Marcus, “Surface Reading: An Introduction," _Representations_ 108.1 (2009)
 * Heather Love, “Close But Not Deep: Literary Ethics and the Descriptive Turn”, _New Literary History_ 41.2 (2010)
 * Anne Cheng, “Skin, Tattoos, and Susceptibility,” _Representations_ 108.1 (2009)
+* *Keywords* essay: Choose one of the NYU *Keywords* volumes listed here: [https://keywords.nyupress.org/](https://keywords.nyupress.org/). Select "Essays" and/or "Web Essays" (the format varies slightly), and select one of the essays available online to read for next week.
 
 ----
 
