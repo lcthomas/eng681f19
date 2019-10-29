@@ -157,7 +157,7 @@ navigation: 3
 
 ## Week 16
 ## Tuesday, December 3
-* No class meeting: extended office hours. Please email Lindsay to arrange a time to meet to discuss your final projects.
+* No class meeting: extended office hours. Please email Lindsay to arrange a time to meet to discuss your final project.
 
 ----
 
