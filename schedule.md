@@ -157,8 +157,7 @@ navigation: 3
 
 ## Week 16
 ## Tuesday, December 3
-* Course wrap-up: Evaluations, sharing of final projects, fête
-* NO RESPONSE DUE
+* No class meeting: extended office hours. Please email Lindsay to arrange a time to meet to discuss your final projects.
 
 ----
 
