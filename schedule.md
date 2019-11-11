@@ -142,6 +142,7 @@ navigation: 3
 
 ## Week 14: Assembling an Archive 2: How do you do it?
 ## Tuesday, November 19
+* Class party: food and drink
 * Saidiya Hartman, "Riot and Refrain" from _Wayward Lives, Beautiful Experiments: Intimate Histories of Social Upheaval_ (2019) (titled “Hartman – Wayward Lives Week 14” in course Box folder)
 * Lauren Berlant, Ch 2 “Intuitionists: History and the Affective Event,” from _Cruel Optimism_ (2011)
 
